@@ -1,0 +1,14 @@
+[
+    {
+        "songName":"Party Rock",
+        "src":"./music/partyrock.mp3"
+    },
+    {
+        "songName":"Sorry for Party Rocking",
+        "src":"./music/sorryforpartyrocking.mp3"
+    },
+    {
+        "songName":"Sexy and I know It",
+        "src":"./music/sexyandiknowit.mp3"
+    }
+]
